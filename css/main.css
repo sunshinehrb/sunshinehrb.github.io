@@ -1843,7 +1843,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #30d678;
+  background: #ff41e3;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3023,4 +3023,12 @@ ul.breadcrumb li+li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
+}
+.site-author-image-guojun {
+  display: block;
+  margin: 0 auto;
+  padding: 2px;
+  max-width: 120px;
+  height: auto;
+  opacity: 1;
 }
